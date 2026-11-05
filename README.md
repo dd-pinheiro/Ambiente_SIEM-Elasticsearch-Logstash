@@ -7,6 +7,15 @@ Este repositório documenta a implementação prática de um ambiente de **Secur
 
 ---
 
+## Habilidades adquiridas ao longo do projeto
+- Criação e visualização de arquitetura
+- Definição e funções de um SIEM
+- Configuração inicial de um SIEM
+- Criação de Alertas de segurança e Dashboards de visualização
+- Análise de logs e Resposta a incidentes
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **SIEM / Análise de Logs:** Elastic Stack (Elasticsearch, Kibana), Sysmon, Windows Event Logs e Windows Defender
 * **EDR - Endpoint Detection & Response**: Elastic Defend
